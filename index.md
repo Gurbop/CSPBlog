@@ -16,7 +16,8 @@ title: Student Blog
   Image didn't work: When entering the picture, I learned I have to use the full file path, so the computer knows where to pull from. 
 </p>
 <p>While I was setting up my enviornment for class I encountered many problems. Often times when I didn’t understand a command or where to locate a file or folder, I was able to rely on my teammates to explain it to me.</p>
-
+<head>About Me:</head>
+<p>I am a fourteen year old sophmore who wants to learn more about computer sciemce.</p>
 <ul>
   <li>Plans, Lists, <a href="https://clickup.com/blog/scrum-board/">Scrum Boards</a> help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!</li>
   <li><a href="https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae">Hacks(Todo)</a> enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.</li>

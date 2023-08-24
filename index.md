@@ -12,7 +12,7 @@ title: Student Blog
 </p>
 <p>
   Errors:
-  Commit didn't work: The problem was that I was typing in te wrong index file, os the commit wasn't recognized. 
+  Commit didn't work: The problem was that I was typing in te wrong index file, os the commit wasn't recognized.  
   Image didn't work: When entering the picture, I learned I have to use the full file path, so the computer knows where to pull from. 
 </p>
 <p>While I was setting up my enviornment for class I encountered many problems. Often times when I didn’t understand a command or where to locate a file or folder, I was able to rely on my teammates to explain it to me.</p>

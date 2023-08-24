@@ -22,9 +22,6 @@ title: Student Blog
   Make command failed: The reason my make command didn't work was because some of the files I had downloaded were corrupted.
 </p>
 <p>While I was setting up my enviornment for class I encountered many problems. Often times when I didn’t understand a command or where to locate a file or folder, I was able to rely on my teammates to explain it to me.</p>
-  <li>Plans, Lists, <a href="https://clickup.com/blog/scrum-board/">Scrum Boards</a> help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!</li>
-  <li><a href="https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae">Hacks(Todo)</a> enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.</li>
-  <li>Tangibles or <a href="https://en.wikipedia.org/wiki/Artifact_(software_development)">Tangible Artifacts</a> are things you accumulate as a learner and coder.</li>
 </ul>
 
 <p>Calculator</p>

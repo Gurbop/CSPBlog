@@ -4,7 +4,7 @@ title: Student Blog
 ---
 
 
-## Gursawn's Page
+## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)
 ## Overview of Hacks, Study and Tangibles
 While I was setting up my enviornment for class I encountered many problems. Often times when I didn't understand a command or where to locate a file or folder, I was able to rely on my teammates to explain it to me.

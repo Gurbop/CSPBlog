@@ -2,7 +2,6 @@
 layout: default
 title: Student Blog
 ---
-
 ## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)
 <head>About Me:</head>

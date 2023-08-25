@@ -78,8 +78,8 @@ title: Student Blog
       <style>
         .board {
           display: grid;
-          grid-template-columns: repeat(3, 75px);
-          grid-gap: 0px;
+          grid-template-columns: repeat(3, 100px);
+          grid-gap: 1px;
         }
         .cell {
           width: 100px;

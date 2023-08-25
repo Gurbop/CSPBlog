@@ -18,7 +18,7 @@ title: Student Blog
 </p>
 <p>
   Errors:
-  Commit didn't work: The problem was that I was typing in te wrong index file, os the commit wasn't recognized.  
+  Commit didn't work: The problem was that I had originally been using a git clone of the teacher repository rather than my own. Later the problem was that I was typing in wrong index file, so the commit wasn't recognized.  
   Image didn't work: When entering the picture, I learned I have to use the full file path, so the computer knows where to pull from. 
   Make command failed: The reason my make command didn't work was because some of the files I had downloaded were corrupted.
 </p>
@@ -144,6 +144,7 @@ title: Student Blog
             }
           }
         }
+        
       </script>
     </body>
 

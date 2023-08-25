@@ -139,7 +139,7 @@ title: Student Blog
             if (cells[a].textContent && cells[a].textContent === cells[b].textContent && cells[a].textContent === cells[c].textContent) {
               gameActive = false;
               alert(`${cells[a].textContent} wins!`);
-              break;
+              clear;
             }
           }
         }

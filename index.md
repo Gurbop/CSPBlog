@@ -2,6 +2,7 @@
 layout: default
 title: Student Blog
 ---
+
 ## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)
 <head>About Me:</head>
@@ -26,7 +27,7 @@ title: Student Blog
 
 <p>Calculator</p>
 <div id="calculator">
-    <div style="max-width: 200px; background-color: #3b6fd1; padding: 10px;">
+    <div style="max-width: 200px; background-color: #3b6fd1; padding: 10px; max-hieght: 500px;">
       <input type="text" id="display" disabled="" />
       <br />
       <button onclick="appendToDisplay('1')">1</button>

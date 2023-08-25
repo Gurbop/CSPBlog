@@ -71,6 +71,7 @@ title: Student Blog
         display.value = '';
       }
     </script>
+  
     
     <head>
       <br />

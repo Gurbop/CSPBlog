@@ -27,7 +27,7 @@ title: Student Blog
 
 <p>Calculator</p>
 <div id="calculator">
-    <div style="max-width: 200px; background-color: #3b6fd1; padding: 10px; max-hieght: 1000px;">
+    <div style="max-width: 200px; background-color: #3b6fd1; padding: 20px; max-hieght: 1000px;">
       <input type="text" id="display" disabled="" />
       <br />
       <button onclick="appendToDisplay('1')">1</button>

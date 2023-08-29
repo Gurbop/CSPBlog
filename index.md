@@ -3,7 +3,7 @@ layout: default
 title: Student Blog
 ---
 <style>
-  backgroud-color: solid blue;
+  backgroud-color: blue;
 </style>
 ## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)

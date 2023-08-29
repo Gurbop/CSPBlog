@@ -2,7 +2,9 @@
 layout: default
 title: Student Blog
 ---
-
+<style>
+  backgroud-color: solid blue;
+</style>
 ## Gurshawn's Page
 ![AboutMe](images/CSPAboutME.png)
 <head>About Me:</head>
@@ -75,7 +77,7 @@ title: Student Blog
     
     <head>
       <br />
-      <h1 span="" style="color: yellow; font-size: 20px;">Tic Tac Toe </h1>
+      <h1 span="" style="color: green; font-size: 20px;">Tic Tac Toe </h1>
       <style>
         .board {
           display: grid;
